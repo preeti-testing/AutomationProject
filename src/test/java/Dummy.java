@@ -5,6 +5,9 @@ public class Dummy {
 		System.out.println("hello");
 		System.out.println("good morning");
 		System.out.println("bye");
+		
+		//TC002
+		System.out.println("new test case");
 
 	}
 
